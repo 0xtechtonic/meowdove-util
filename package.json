@@ -1,0 +1,32 @@
+{
+  "name": "meowdove-util",
+  "version": "1.0.0",
+  "description": "Meowdove Util is your companion in the NFT world, offering essential tools and utilities for seamless NFT management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xtechtonic/meowdove-util"
+  },
+  "author": "0xtechtonic",
+  "license": "MIT",
+  "dependencies": {
+    "nft-meadow-brokerage": "1.0.0",
+    "meowdove-util": "1.0.0",
+    "webpack": "1.0.0",
+    "mocha": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "fs-extra": "1.0.0",
+    "pg": "1.0.0",
+    "express": "1.0.0",
+    "underscore": "1.0.0",
+    "lodash": "1.0.0",
+    "bcrypt": "1.0.0",
+    "babel-core": "1.0.0",
+    "solc": "1.0.0",
+    "cheerio": "1.0.0"
+  }
+}
